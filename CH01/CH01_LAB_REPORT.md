@@ -1,34 +1,18 @@
-# Chapter 1: [Topic Name] — Lab Report
+# Chapter 1 Lab Report: Binary Search
 
 ## Student Information
-- **Name:** [Your Name]
-- **Date:** [Date]
+- **Name:** [Your Name Here]
+- **Date:** [Today's Date]
 - **Course:** COSC 2436
 
 ## Algorithm Summary
-- **How it works:** [2-3 sentence plain-English explanation]
-- **Time complexity:** [e.g., O(log n), O(n²), O(V + E)]
-- **When to use it:** [What problems is this algorithm well-suited for?]
+
+### Linear Search
+[Explain how linear search works in plain English. Include time complexity and when to use it.]
+
+### Binary Search
+[Explain how binary search works in plain English. Include time complexity and when to use it.]
 
 ## Test Results
-[Paste your program output, measurement table, or sample run.
- Use a Markdown table where appropriate.]
 
-| Input          | Result | Notes |
-|----------------|--------|-------|
-|                |        |       |
-
-## Reflection Questions
-
-1. **[Your first question]**
-   [Your answer in 2-3 sentences.]
-
-2. **[Your second question]**
-   [Your answer in 2-3 sentences.]
-
-3. **[Your third question]**
-   [Your answer in 2-3 sentences.]
-
-## Challenges Encountered
-[Brief paragraph describing what was difficult, what you tried,
- and how you resolved it.]
+[Paste the output from your program here, showing the timing comparisons between linear and binary search]
