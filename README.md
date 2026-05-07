@@ -45,3 +45,39 @@ and run the main file:
 ## Course
 COSC 2436 - Programming Fundamentals III (Data Structures and Algorithms),
 [Semester Year], based on *Grokking Algorithms* by Aditya Bhargava.
+
+# This is Heading 1
+
+## Heading 2
+
+This is a **paragraph** 
+This is *italic*
+This is underline
+
+- this is an unordered list
+- this is second in the list
+
+1. this is a numbered or ordered list
+2. this is second
+3. 1968 is the year
+    > This was a bad year
+4. this is fourth
+
+The `cout` statement is useful in C++.
+
+```
+   std::cout << "This is a string literal.";
+   std::endl;
+```
+![Tux, the Linux mascot](/assets/images/tux.png)
+
+
+
+
+
+
+
+
+
+
+
