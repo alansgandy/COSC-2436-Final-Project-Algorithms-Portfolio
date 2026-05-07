@@ -69,7 +69,7 @@ The `cout` statement is useful in C++.
    std::cout << "This is a string literal.";
    std::endl;
 ```
-![Tux, the Linux mascot](assets/images/tux-1080.webp)
+![Tux, the Linux mascot](assets/images/tux-1080.webp)<width="200" height="100">
 
 
 
